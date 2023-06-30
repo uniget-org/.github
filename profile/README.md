@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-This will become the new home of [docker-setup](nicholasdille/docker-setup)
+This will become the new home of [docker-setup](https://github.com/nicholasdille/docker-setup)
